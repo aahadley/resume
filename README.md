@@ -62,7 +62,7 @@ October 2018 -- Ongoing
 * Developing programs to carry out attacks using symmetric brute-force and differential cryptanalysis.
 
 
-### [Recamann Sequence](https://github.com/aahadley/Recaman-Sequence)
+### [Recaman Sequence](https://github.com/aahadley/Recaman-Sequence)
 * Developing a space efficient algorithm for generating elements oof the Recamann Sequence  
 
 ### CPU Cache Simulator (coursework)  
