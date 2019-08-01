@@ -63,7 +63,7 @@ October 2018 -- Ongoing
 
 
 ### [Recaman Sequence](https://github.com/aahadley/Recaman-Sequence)
-* Developing a space efficient algorithm for generating elements oof the Recamann Sequence  
+* Developing a space efficient algorithm for generating elements of the Recaman Sequence  
 
 ### CPU Cache Simulator (coursework)  
 * Wrote a simulation of a CPU cache using various cache sizes, associativities, and replacement policies.
